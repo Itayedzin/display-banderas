@@ -1,0 +1,57 @@
+div{
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+}
+.bandera-amarilla{
+  background-color: #F7B617;
+}
+.bandera-gris{
+  background-color: #2B2B2B;
+  color: #FFF;
+}
+
+div #parte-2{
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+}
+.bandera-amarilla{
+  background-color: #F7B617;
+}
+.bandera-gris{
+  background-color: #777777;
+  color: #FFF;
+}
+
+div .parte-3{
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+  /*display: inline;*/
+  display: inline-block;
+}
+.bandera-amarilla{
+  background-color: #F7B617;
+}
+.bandera-gris{
+  background-color: #2b2b2b;
+  color: #FFF;
+}
+
+div .parte-4{
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-bottom: 10px;
+  *display: inline;
+}
+.bandera-amarilla{
+  background-color: #F7B617;
+}
+.bandera-gris{
+  background-color: #2b2b2b;
+  color: #FFF;
+}
